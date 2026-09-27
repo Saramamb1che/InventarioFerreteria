@@ -18,9 +18,12 @@ Programación de Aplicaciones de Escritorio.
 
 ## Estado
 
-Repositorio y estructura inicial preparados. La aplicación y los scripts de base
-de datos todavía no están implementados. Las instrucciones de instalación y
-ejecución se agregarán conforme se complete el proyecto.
+Repositorio y estructura inicial preparados. Los tres scripts de base de datos
+están disponibles en `database/`; su ejecución está pendiente de verificar.
+La aplicación todavía no está implementada.
+
+Para preparar la base, sigue [docs/BASE_DE_DATOS.md](docs/BASE_DE_DATOS.md).
+En este equipo MariaDB utiliza el puerto **3307**.
 
 ## Modalidad de trabajo
 

@@ -427,3 +427,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# ---- Propias del proyecto ----
+# Respaldos locales de la base de datos
+database/respaldos/
+*.bak

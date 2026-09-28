@@ -62,4 +62,12 @@ USAGE sobre `*.*` no concede permisos adicionales para modificar tablas.
 
 ## Estado
 
-Scripts preparados. Ejecución y conexión autenticada pendientes de verificar.
+Scripts 01, 02 y 03 ejecutados: 6 categorías y 14 productos de prueba cargados.
+Conexión con `ferre_app` verificada en MariaDB 12.3.3, puerto 3307.
+
+## Proveedores
+
+El script `database/04_proveedores.sql` ya fue ejecutado en `ferreteria_db`.
+Creó el catálogo y la relación con productos sin borrar registros existentes.
+Después de ejecutarlo, se debe reiniciar la aplicación para habilitar la selección
+de proveedor.
